@@ -1,0 +1,40 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>FPL Player Tiers</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        table, th, td { border: 1px solid black; }
+        th, td { padding: 8px; text-align: left; }
+        .tier-S { background-color: gold; }
+        .tier-A { background-color: silver; }
+        .tier-B { background-color: bronze; }
+        .tier-C { background-color: lightgrey; }
+    </style>
+</head>
+<body>
+    <h1>FPL Player Tiers</h1>
+    {% for tier in site.data.fpl_players_tiers | group_by: "tier" %}
+        <h2>Tier {{ tier.name }}</h2>
+        <table class="tier-{{ tier.name }}">
+            <tr>
+                <th>Name</th>
+                <th>Team</th>
+                <th>Total Points</th>
+                <th>Value</th>
+            </tr>
+            {% for player in tier.items %}
+                <tr>
+                    <td>{{ player.name }}</td>
+                    <td>{{ player.team }}</td>
+                    <td>{{ player.total_points }}</td>
+                    <td>{{ player.value }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% endfor %}
+</body>
+</html>
+

@@ -1,0 +1,580 @@
+name,team,total_points,value,tier
+Fábio Vieira,Arsenal,24,5.5,C
+G.Jesus,Arsenal,85,7.0,B
+Gabriel,Arsenal,149,6.0,A
+Havertz,Arsenal,180,8.0,S
+Hein,Arsenal,0,4.0,C
+J.Timber,Arsenal,0,5.5,C
+Jorginho,Arsenal,44,5.0,C
+Kiwior,Arsenal,67,5.0,B
+Martinelli,Arsenal,118,7.0,A
+Nelson,Arsenal,16,5.0,C
+Nketiah,Arsenal,71,6.0,B
+Nwaneri,Arsenal,1,4.5,C
+Ødegaard,Arsenal,186,8.5,S
+Ramsdale,Arsenal,20,4.5,C
+Raya,Arsenal,135,5.5,A
+Rice,Arsenal,165,6.5,S
+Saka,Arsenal,226,10.0,S
+Saliba,Arsenal,164,6.0,S
+Smith Rowe,Arsenal,25,5.5,C
+Thomas,Arsenal,24,5.0,C
+Tierney,Arsenal,0,4.5,C
+Tomiyasu,Arsenal,70,5.0,B
+Trossard,Arsenal,138,7.0,A
+White,Arsenal,182,6.5,S
+Zinchenko,Arsenal,104,5.0,A
+Calafiori,Arsenal,0,6.0,C
+Alex Moreno,Aston Villa,49,4.5,C
+Archer,Aston Villa,82,5.0,B
+Bailey,Aston Villa,148,6.5,A
+Barkley,Aston Villa,101,5.5,A
+Barrenechea,Aston Villa,0,5.0,C
+Buendia,Aston Villa,0,5.5,C
+Cash,Aston Villa,64,4.5,B
+Dendoncker,Aston Villa,20,4.5,C
+Diaby,Aston Villa,142,6.5,A
+Diego Carlos,Aston Villa,55,4.5,B
+Digne,Aston Villa,85,4.5,B
+Dobbin,Aston Villa,18,5.0,C
+Duran,Aston Villa,50,6.0,B
+Gauci,Aston Villa,0,4.0,C
+Hause,Aston Villa,0,4.0,C
+Iling Jr,Aston Villa,0,5.5,C
+Kamara,Aston Villa,40,5.0,C
+Kesler-Hayden,Aston Villa,3,4.0,C
+Konsa,Aston Villa,91,4.5,B
+Maatsen,Aston Villa,11,5.0,C
+Marschall,Aston Villa,0,4.0,C
+Martinez,Aston Villa,115,5.0,A
+McGinn,Aston Villa,119,5.5,A
+Mings,Aston Villa,0,4.5,C
+Nedeljkovic,Aston Villa,0,4.0,C
+Olsen,Aston Villa,17,4.5,C
+Pau,Aston Villa,85,4.5,B
+Ramsey,Aston Villa,29,5.5,C
+Rogers,Aston Villa,35,5.0,C
+Sinisalo,Aston Villa,0,4.0,C
+Sousa,Aston Villa,0,4.0,C
+Tielemans,Aston Villa,77,5.5,B
+Watkins,Aston Villa,228,9.0,S
+Onana,Aston Villa,66,5.0,B
+Jaden,Aston Villa,0,5.5,C
+Aarons,Bournemouth,28,4.5,C
+Adams,Bournemouth,5,5.0,C
+Anthony,Bournemouth,3,4.5,C
+Brooks,Bournemouth,23,5.0,C
+Christie,Bournemouth,90,5.0,B
+Cook,Bournemouth,77,5.0,B
+Enes Ünal,Bournemouth,40,5.5,C
+Faivre,Bournemouth,4,5.0,C
+H.Traorè,Bournemouth,3,4.5,C
+Hill,Bournemouth,5,4.0,C
+Jebbison,Bournemouth,1,4.5,C
+Kerkez,Bournemouth,59,4.5,B
+Kluivert,Bournemouth,100,5.5,A
+Mepham,Bournemouth,16,4.5,C
+Neto,Bournemouth,110,4.5,A
+O.Dango,Bournemouth,56,5.0,B
+Paulsen,Bournemouth,0,4.0,C
+Philip,Bournemouth,60,5.0,B
+Scott,Bournemouth,41,5.0,C
+Semenyo,Bournemouth,107,5.5,A
+Senesi,Bournemouth,102,5.0,A
+Sinisterra,Bournemouth,43,5.0,C
+Smith,Bournemouth,80,4.5,B
+Solanke,Bournemouth,175,7.5,S
+Tavernier,Bournemouth,89,5.5,B
+Travers,Bournemouth,19,4.5,C
+Zabarnyi,Bournemouth,84,4.5,B
+Ajer,Brentford,68,4.5,B
+Brierley,Brentford,0,4.5,C
+Collins,Brentford,84,4.5,B
+Damsgaard,Brentford,45,5.0,C
+Dasilva,Brentford,3,5.0,C
+Flekken,Brentford,119,4.5,A
+Henry,Brentford,13,4.5,C
+Hickey,Brentford,17,4.5,C
+Janelt,Brentford,93,5.0,B
+Jensen,Brentford,98,5.5,B
+Ji-soo,Brentford,0,4.0,C
+Konak,Brentford,0,4.5,C
+Lewis-Potter,Brentford,73,5.0,B
+Mbeumo,Brentford,127,7.0,A
+Mee,Brentford,39,4.5,C
+Nørgaard,Brentford,74,5.0,B
+Onyeka,Brentford,39,5.0,C
+Peart-Harris,Brentford,3,4.5,C
+Pinnock,Brentford,77,4.5,B
+Roerslev,Brentford,75,4.5,B
+Schade,Brentford,33,5.5,C
+Thiago,Brentford,0,6.0,C
+Toney,Brentford,57,7.5,B
+Valdimarsson,Brentford,0,4.0,C
+Wissa,Brentford,131,6.0,A
+Yarmoliuk,Brentford,33,4.5,C
+Zanka,Brentford,29,4.5,C
+Adingra,Brighton,97,5.5,B
+Baker-Boaitey,Brighton,4,4.5,C
+Baleba,Brighton,34,5.0,C
+Barco,Brighton,5,4.0,C
+Buonanotte,Brighton,57,5.0,B
+Cozier-Duberry,Brighton,0,4.5,C
+Dahoud,Brighton,14,5.0,C
+Dunk,Brighton,89,4.5,B
+Enciso,Brighton,20,5.5,C
+Estupiñan,Brighton,57,5.0,B
+Ferguson,Brighton,69,5.5,B
+Gilmour,Brighton,61,5.0,B
+Gross,Brighton,153,6.5,S
+Hinshelwood,Brighton,42,5.0,C
+I.Osman,Brighton,0,5.0,C
+Igor,Brighton,37,4.5,C
+João Pedro,Brighton,104,5.5,A
+Kozlowski,Brighton,0,4.5,C
+Lamptey,Brighton,31,4.5,C
+March,Brighton,39,6.5,C
+Mazilu,Brighton,0,4.5,C
+Milner,Brighton,28,5.0,C
+Minteh,Brighton,0,5.5,C
+Mitoma,Brighton,74,6.5,B
+Moder,Brighton,21,4.5,C
+O’Mahony,Brighton,2,4.5,C
+Offiah,Brighton,4,4.0,C
+Peupion,Brighton,0,4.5,C
+Sarmiento,Brighton,0,5.0,C
+Steele,Brighton,42,4.5,C
+Undav,Brighton,0,5.5,C
+Van Hecke,Brighton,61,4.5,B
+Veltman,Brighton,49,4.5,C
+Verbruggen,Brighton,68,4.5,B
+Webster,Brighton,26,4.5,C
+Welbeck,Brighton,79,5.5,B
+Wieffer,Brighton,0,5.0,C
+Andrey Santos,Chelsea,1,4.5,C
+Ângelo,Chelsea,0,4.5,C
+Arrizabalaga,Chelsea,0,4.5,C
+B.Badiashile,Chelsea,35,4.5,C
+Bergström,Chelsea,0,4.0,C
+Bettinelli,Chelsea,-1,4.0,C
+Broja,Chelsea,35,5.5,C
+Caicedo,Chelsea,84,5.0,B
+Casadei,Chelsea,11,4.5,C
+Chalobah,Chelsea,39,4.5,C
+Chilwell,Chelsea,24,5.0,C
+Chukwuemeka,Chelsea,16,5.0,C
+Colwill,Chelsea,65,4.5,B
+Cucurella,Chelsea,44,5.0,C
+D.D.Fofana,Chelsea,50,5.5,B
+Deivid,Chelsea,2,5.0,C
+Dewsbury-Hall,Chelsea,0,6.0,C
+Disasi,Chelsea,71,4.5,B
+Enzo,Chelsea,77,5.0,B
+Gallagher,Chelsea,129,6.0,A
+Gilchrist,Chelsea,20,4.0,C
+Gusto,Chelsea,74,5.0,B
+James,Chelsea,11,5.0,C
+Kellyman,Chelsea,2,4.5,C
+Lavia,Chelsea,1,4.5,C
+Lukaku,Chelsea,0,6.5,C
+M.Sarr,Chelsea,0,4.5,C
+Madueke,Chelsea,76,6.5,B
+Marc Guiu,Chelsea,0,5.0,C
+Mudryk,Chelsea,94,6.5,B
+N.Jackson,Chelsea,142,7.5,A
+Nkunku,Chelsea,29,6.5,C
+Palmer,Chelsea,244,10.5,S
+Petrović,Chelsea,71,4.5,B
+Renato Veiga,Chelsea,0,4.5,C
+Sánchez,Chelsea,59,4.5,B
+Sterling,Chelsea,123,7.0,A
+Tosin,Chelsea,66,4.5,B
+Ugochukwu,Chelsea,13,4.5,C
+W.Fofana,Chelsea,0,4.5,C
+Wiley,Chelsea,0,4.0,C
+Ahamada,Crystal Palace,16,4.5,C
+Andersen,Crystal Palace,121,4.5,A
+J.Ayew,Crystal Palace,109,5.5,A
+C.Doucouré,Crystal Palace,21,5.0,C
+C.Richards,Crystal Palace,62,4.5,B
+Chadi Riad,Crystal Palace,0,4.5,C
+Clyne,Crystal Palace,52,4.5,B
+Ebiowei,Crystal Palace,0,4.5,C
+Edouard,Crystal Palace,79,5.5,B
+Eze,Crystal Palace,136,7.0,A
+Guéhi,Crystal Palace,66,4.5,B
+Henderson,Crystal Palace,48,4.5,C
+Holding,Crystal Palace,0,4.5,C
+Hughes,Crystal Palace,61,5.0,B
+Johnstone,Crystal Palace,68,4.5,B
+Kamada,Crystal Palace,0,5.5,C
+Lerma,Crystal Palace,64,5.0,B
+Mateta,Crystal Palace,165,7.5,S
+M.França,Crystal Palace,16,4.5,C
+Matthews,Crystal Palace,1,4.0,C
+Mitchell,Crystal Palace,119,5.0,A
+Muñoz,Crystal Palace,56,5.0,B
+Ozoh,Crystal Palace,8,4.5,C
+Rak-Sakyi,Crystal Palace,8,4.5,C
+Schlupp,Crystal Palace,66,5.0,B
+Ward,Crystal Palace,54,4.5,B
+Wharton,Crystal Palace,50,5.0,B
+A.Doucoure,Everton,116,5.5,A
+Beto,Everton,50,5.0,B
+Branthwaite,Everton,124,5.0,A
+Calvert-Lewin,Everton,101,6.0,A
+Coleman,Everton,30,4.5,C
+Gana,Everton,73,5.0,B
+Garner,Everton,87,5.0,B
+Harrison,Everton,92,5.5,B
+Holgate,Everton,1,4.0,C
+Iroegbunam,Everton,10,4.5,C
+J.Virginia,Everton,0,4.0,C
+Keane,Everton,18,4.0,C
+Maupay,Everton,76,5.0,B
+McNeil,Everton,124,5.5,A
+Mykolenko,Everton,101,4.5,A
+Ndiaye,Everton,0,5.5,C
+Patterson,Everton,34,4.5,C
+Pickford,Everton,153,5.0,S
+Tarkowski,Everton,117,5.0,A
+Y. Chermiti,Everton,16,5.0,C
+Young,Everton,76,4.5,B
+Lindstrøm,Everton,0,5.5,C
+Adama,Fulham,36,5.0,C
+Andreas,Fulham,127,5.5,A
+Bassey,Fulham,66,4.5,B
+Benda,Fulham,0,4.0,C
+Cairney,Fulham,70,5.0,B
+Castagne,Fulham,105,4.5,A
+Diop,Fulham,43,4.5,C
+Harris,Fulham,2,4.5,C
+Iwobi,Fulham,102,5.5,A
+Leno,Fulham,133,5.0,A
+Lukić,Fulham,43,5.0,C
+Mbabu,Fulham,0,4.0,C
+Muniz,Fulham,97,6.0,B
+Raúl,Fulham,72,5.5,B
+Ream,Fulham,40,4.5,C
+Reed,Fulham,47,5.0,C
+Robinson,Fulham,104,4.5,A
+Stansfield,Fulham,0,5.0,C
+Tete,Fulham,27,4.5,C
+Vinicius,Fulham,22,5.0,C
+Wilson,Fulham,94,5.5,B
+Sessegnon,Fulham,0,4.5,C
+Al-Hamadi,Ipswich,0,5.0,C
+Baggott,Ipswich,0,4.0,C
+Broadhead,Ipswich,0,5.0,C
+Burgess,Ipswich,0,4.0,C
+Burns,Ipswich,0,5.0,C
+Chaplin,Ipswich,0,5.5,C
+Clarke,Ipswich,0,4.0,C
+Davis,Ipswich,0,4.5,C
+Delap,Ipswich,0,5.5,C
+Edmundson,Ipswich,0,4.0,C
+Greaves,Ipswich,0,4.0,C
+Harness,Ipswich,0,5.0,C
+Hirst,Ipswich,0,5.5,C
+Humphreys,Ipswich,0,4.5,C
+Hutchinson,Ipswich,0,5.5,C
+Johnson,Ipswich,17,4.0,C
+Ladapo,Ipswich,0,4.5,C
+Luongo,Ipswich,0,4.5,C
+Morsy,Ipswich,0,5.0,C
+Ndaba,Ipswich,0,4.0,C
+Slicker,Ipswich,0,4.0,C
+Taylor,Ipswich,0,5.0,C
+Tuanzebe,Ipswich,0,4.0,C
+Walton,Ipswich,0,4.5,C
+Woolfenden,Ipswich,0,4.0,C
+Muric,Ipswich,47,4.5,C
+B.Soumaré,Leicester,0,4.5,C
+Cannon,Leicester,0,4.5,C
+Choudhury,Leicester,0,4.5,C
+Coady,Leicester,0,4.0,C
+Daka,Leicester,0,5.0,C
+De Cordova-Reid,Leicester,92,5.5,B
+Faes,Leicester,0,4.0,C
+Golding,Leicester,0,4.5,C
+Hermansen,Leicester,0,4.5,C
+Iversen,Leicester,0,4.0,C
+Justin,Leicester,0,4.5,C
+Kristiansen,Leicester,0,4.5,C
+Marcal,Leicester,0,4.5,C
+Mavididi,Leicester,0,5.5,C
+McAteer,Leicester,0,5.0,C
+Ndidi,Leicester,0,5.0,C
+Okoli,Leicester,0,4.0,C
+Ricardo,Leicester,0,4.5,C
+Souttar,Leicester,0,4.0,C
+Stolarczyk,Leicester,0,4.0,C
+Thomas,Leicester,7,4.0,C
+Vardy,Leicester,0,5.5,C
+Vestergaard,Leicester,0,4.0,C
+Ward,Leicester,0,4.0,C
+Winks,Leicester,0,4.5,C
+A.Fatawu,Leicester,0,5.5,C
+A.Becker,Liverpool,107,5.5,A
+Alexander-Arnold,Liverpool,122,7.0,A
+Bajcetic,Liverpool,1,4.5,C
+Bradley,Liverpool,50,5.0,B
+Carvalho,Liverpool,0,5.0,C
+Clark,Liverpool,5,4.5,C
+Darwin,Liverpool,132,7.5,A
+Diogo J.,Liverpool,110,7.5,A
+Doak,Liverpool,1,4.5,C
+Elliott,Liverpool,96,5.5,B
+Endo,Liverpool,47,5.0,C
+Gakpo,Liverpool,106,7.5,A
+Gomez,Liverpool,76,5.0,B
+Gravenberch,Liverpool,45,5.0,C
+Jones,Liverpool,40,5.5,C
+Kelleher,Liverpool,34,4.5,C
+Konaté,Liverpool,56,5.0,B
+Luis Díaz,Liverpool,142,7.5,A
+M.Salah,Liverpool,211,12.5,S
+Mac Allister,Liverpool,109,6.5,A
+McConnell,Liverpool,3,4.5,C
+Morton,Liverpool,0,4.5,C
+N.Phillips,Liverpool,0,4.0,C
+Quansah,Liverpool,49,4.5,C
+R.Williams,Liverpool,0,4.0,C
+Robertson,Liverpool,76,6.0,B
+Szoboszlai,Liverpool,99,6.5,B
+Tsimikas,Liverpool,48,5.0,C
+Van den Berg,Liverpool,0,4.0,C
+Virgil,Liverpool,117,6.0,A
+Akanji,Man City,112,5.5,A
+Aké,Man City,99,5.5,B
+Bernardo,Man City,141,6.5,A
+Bobb,Man City,30,5.0,C
+Carson,Man City,0,4.0,C
+De Bruyne,Man City,98,9.5,B
+Doku,Man City,98,6.5,B
+Ederson M.,Man City,112,5.5,A
+Foden,Man City,230,9.5,S
+Grealish,Man City,50,6.5,B
+Gvardiol,Man City,123,6.0,A
+Haaland,Man City,217,15.0,S
+J.Alvarez,Man City,158,7.0,S
+João Cancelo,Man City,0,5.5,C
+Kovačić,Man City,59,5.5,B
+Lewis,Man City,52,4.5,B
+Matheus N.,Man City,32,5.0,C
+McAtee,Man City,77,5.0,B
+Ortega Moreno,Man City,22,5.5,C
+Phillips,Man City,10,5.0,C
+Rodrigo,Man City,159,6.5,S
+Rúben,Man City,88,5.5,B
+Stones,Man City,53,5.5,B
+Walker,Man City,123,5.5,A
+Sávio,Man City,0,6.5,C
+Amad,Man Utd,23,5.0,C
+Antony,Man Utd,47,6.0,C
+B.Fernandes,Man Utd,166,8.5,S
+Bayindir,Man Utd,0,4.5,C
+Casemiro,Man Utd,58,5.0,B
+Dalot,Man Utd,111,5.0,A
+Eriksen,Man Utd,48,5.5,C
+Evans,Man Utd,49,4.5,C
+Garnacho,Man Utd,131,6.5,A
+Hannibal,Man Utd,11,4.5,C
+Heaton,Man Utd,0,4.0,C
+Højlund,Man Utd,112,7.0,A
+Lindelof,Man Utd,62,4.5,B
+Maguire,Man Utd,73,5.0,B
+Mainoo,Man Utd,77,5.5,B
+Malacia,Man Utd,0,4.5,C
+Martinez,Man Utd,15,4.5,C
+McTominay,Man Utd,98,5.0,B
+Mount,Man Utd,23,6.5,C
+Onana,Man Utd,133,5.0,A
+Pellistri,Man Utd,13,5.0,C
+Rashford,Man Utd,108,7.0,A
+Sancho,Man Utd,3,6.5,C
+Shaw,Man Utd,31,5.0,C
+Wan-Bissaka,Man Utd,47,4.5,C
+Zirkzee,Man Utd,0,7.0,C
+Yoro,Man Utd,0,4.5,C
+A.Murphy,Newcastle,2,4.0,C
+Almirón,Newcastle,77,6.0,B
+Barnes,Newcastle,64,6.5,B
+Botman,Newcastle,51,4.5,B
+Bruno G.,Newcastle,153,6.5,S
+Burn,Newcastle,97,4.5,B
+Dúbravka,Newcastle,75,4.5,B
+Fraser,Newcastle,0,5.0,C
+Gordon,Newcastle,183,7.5,S
+Hall,Newcastle,38,4.5,C
+Hayden,Newcastle,0,4.5,C
+Isak,Newcastle,172,8.5,S
+J.Murphy,Newcastle,82,5.5,B
+Joelinton,Newcastle,45,6.0,C
+Kelly,Newcastle,48,4.5,C
+Krafth,Newcastle,33,4.5,C
+Kuol,Newcastle,0,4.5,C
+Lascelles,Newcastle,46,4.5,C
+Lewis,Newcastle,0,4.0,C
+Livramento,Newcastle,45,4.5,C
+Longstaff,Newcastle,110,5.0,A
+Miley,Newcastle,44,5.0,C
+Odysseas,Newcastle,12,4.5,C
+Pope,Newcastle,57,5.0,B
+Ruddy,Newcastle,0,4.0,C
+Schär,Newcastle,123,5.5,A
+Targett,Newcastle,2,4.0,C
+Tonali,Newcastle,16,5.5,C
+Trippier,Newcastle,111,6.0,A
+White,Newcastle,3,4.5,C
+Willock,Newcastle,18,5.0,C
+Wilson,Newcastle,69,7.0,B
+Pivas,Newcastle,0,4.0,C
+Aina,Nott'm Forest,45,4.5,C
+Anderson,Nott'm Forest,42,5.0,C
+Awoniyi,Nott'm Forest,67,6.0,B
+Boly,Nott'm Forest,58,4.5,B
+Bowler,Nott'm Forest,0,4.5,C
+C.Miguel,Nott'm Forest,0,4.5,C
+Da Silva Moreira,Nott'm Forest,0,4.5,C
+Danilo,Nott'm Forest,65,5.0,B
+Dennis,Nott'm Forest,0,5.0,C
+Dominguez,Nott'm Forest,67,5.0,B
+Elanga,Nott'm Forest,119,5.5,A
+Gibbs-White,Nott'm Forest,142,6.5,A
+Hudson-Odoi,Nott'm Forest,109,5.5,A
+Mighten,Nott'm Forest,0,4.5,C
+Murillo,Nott'm Forest,58,4.5,B
+N.Williams,Nott'm Forest,39,4.5,C
+O.Richards,Nott'm Forest,0,4.5,C
+O'Brien,Nott'm Forest,0,5.0,C
+Omobamidele,Nott'm Forest,11,4.5,C
+Panzo,Nott'm Forest,0,4.0,C
+Sangaré,Nott'm Forest,25,4.5,C
+Sels,Nott'm Forest,34,4.5,C
+Toffolo,Nott'm Forest,52,4.5,B
+Turner,Nott'm Forest,41,4.0,C
+Ui-jo,Nott'm Forest,0,4.5,C
+Wood,Nott'm Forest,131,6.0,A
+Worrall,Nott'm Forest,13,4.5,C
+Yates,Nott'm Forest,59,5.0,B
+Milenković,Nott'm Forest,0,4.5,C
+Alcaraz,Southampton,0,5.0,C
+Amo-Ameyaw,Southampton,0,4.5,C
+Aribo,Southampton,0,5.0,C
+Armstrong,Southampton,0,5.5,C
+Bazunu,Southampton,0,4.5,C
+Bednarek,Southampton,0,4.0,C
+Bella-Kotchap,Southampton,0,4.0,C
+Bree,Southampton,0,4.0,C
+Charles,Southampton,0,4.5,C
+Edozie,Southampton,0,5.0,C
+Edwards,Southampton,0,4.0,C
+Harwood-Bellis,Southampton,0,4.0,C
+Kamaldeen,Southampton,0,5.0,C
+Lallana,Southampton,30,5.0,C
+Larios,Southampton,0,4.0,C
+Lis,Southampton,0,4.0,C
+Lumley,Southampton,0,4.0,C
+Manning,Southampton,0,4.5,C
+Mara,Southampton,0,5.0,C
+McCarthy,Southampton,0,4.5,C
+Onuachu,Southampton,0,5.0,C
+Smallbone,Southampton,0,5.0,C
+Stephens,Southampton,0,4.0,C
+Stewart,Southampton,0,4.5,C
+Sugawara,Southampton,0,4.5,C
+Taylor,Southampton,47,4.0,C
+Walker-Peters,Southampton,0,4.5,C
+Wood,Southampton,0,4.0,C
+Downes,Southampton,0,5.0,C
+A.Phillips,Spurs,0,4.0,C
+Austin,Spurs,0,4.0,C
+Bentancur,Spurs,32,5.0,C
+Bergvall,Spurs,0,4.5,C
+Bissouma,Spurs,44,5.0,C
+Bryan,Spurs,12,5.0,C
+Davies,Spurs,34,4.5,C
+Devine,Spurs,0,4.5,C
+Dragusin,Spurs,14,4.5,C
+E.Royal,Spurs,27,4.5,C
+Forster,Spurs,0,4.5,C
+Gray,Spurs,0,5.0,C
+Højbjerg,Spurs,39,5.0,C
+Johnson,Spurs,131,6.5,A
+Kulusevski,Spurs,130,6.5,A
+Lo Celso,Spurs,47,5.0,C
+Maddison,Spurs,117,7.5,A
+Pedro Porro,Spurs,136,5.5,A
+Reguilón,Spurs,74,4.5,B
+Richarlison,Spurs,122,7.0,A
+Romero,Spurs,107,5.0,A
+Sarr,Spurs,86,5.0,B
+Scarlett,Spurs,4,4.5,C
+Skipp,Spurs,22,5.0,C
+Solomon,Spurs,14,5.5,C
+Son,Spurs,213,10.0,S
+Spence,Spurs,0,4.5,C
+Udogie,Spurs,79,5.0,B
+Van de Ven,Spurs,81,4.5,B
+Veliz,Spurs,11,5.0,C
+Vicario,Spurs,112,5.0,A
+Werner,Spurs,46,6.5,C
+Whiteman,Spurs,0,4.0,C
+Álvarez,West Ham,62,5.0,B
+Antonio,West Ham,78,5.5,B
+Areola,West Ham,116,4.5,A
+Bowen,West Ham,182,7.5,S
+Cornet,West Ham,13,5.0,C
+Coufal,West Ham,85,4.5,B
+Cresswell,West Ham,10,4.0,C
+Earthy,West Ham,8,4.5,C
+Emerson,West Ham,82,4.5,B
+Fabianski,West Ham,24,4.0,C
+Foderingham,West Ham,70,4.5,B
+Ings,West Ham,36,5.0,C
+Kilman,West Ham,82,4.5,B
+Kudus,West Ham,137,6.5,A
+L.Guilherme,West Ham,0,5.0,C
+L.Paquetá,West Ham,100,6.0,A
+Mavropanos,West Ham,40,4.5,C
+N.Aguerd,West Ham,36,4.5,C
+Souček,West Ham,116,5.0,A
+Ward-Prowse,West Ham,146,6.5,A
+Zouma,West Ham,76,4.5,B
+Irving,West Ham,0,5.0,C
+Aït-Nouri,Wolves,77,4.5,B
+B.Traore,Wolves,25,5.0,C
+Bellegarde,Wolves,45,5.0,C
+Bentley,Wolves,18,4.0,C
+Chiquinho,Wolves,0,4.5,C
+Chirewa,Wolves,8,4.5,C
+Chiwome,Wolves,5,4.5,C
+Cundle,Wolves,0,4.5,C
+Cunha,Wolves,135,6.5,A
+Dawson,Wolves,69,4.5,B
+Doherty,Wolves,41,4.5,C
+Doyle,Wolves,38,5.0,C
+Fábio Silva,Wolves,8,5.0,C
+Fraser,Wolves,7,4.5,C
+Gonzalez,Wolves,1,4.5,C
+Guedes,Wolves,0,5.5,C
+H.Bueno,Wolves,29,4.5,C
+Hee Chan,Wolves,125,6.5,A
+Hodge,Wolves,0,4.5,C
+Hoever,Wolves,0,4.0,C
+J.Gomes,Wolves,75,5.0,B
+José Sá,Wolves,107,4.5,A
+Kalajdžić,Wolves,24,5.0,C
+King,Wolves,0,4.0,C
+Mario Jr.,Wolves,95,5.0,B
+Mosquera,Wolves,0,4.0,C
+N.Semedo,Wolves,63,4.5,B
+Neto,Wolves,86,6.5,B
+Pedro Lima,Wolves,0,4.0,C
+Podence,Wolves,0,5.5,C
+R.Gomes,Wolves,0,5.5,C
+S.Bueno,Wolves,13,4.5,C
+Sarabia,Wolves,99,5.5,B
+Strand Larsen,Wolves,0,5.5,C
+Toti,Wolves,82,4.5,B
